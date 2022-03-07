@@ -6,3 +6,5 @@ test-fecth
 test-local
 
 test-fetch-2
+
+test-git-pull
