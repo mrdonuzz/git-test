@@ -8,3 +8,5 @@ test-local
 test-fetch-2
 
 test-git-pull
+
+test-push-local
